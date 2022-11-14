@@ -5,8 +5,6 @@
 // ready for the next exercise, remove the `I AM NOT DONE` comment below.
 // Execute the command `rustlings hint intro1` for a hint.
 
-// I AM NOT DONE
-
 fn main() {
     println!("Hello and");
     println!(r#"       welcome to...                      "#);
@@ -21,3 +19,4 @@ fn main() {
     println!("or logic error. The central concept behind Rustlings is to fix these errors and");
     println!("solve the exercises. Good luck!");
 }
+
